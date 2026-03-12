@@ -22,14 +22,14 @@ Linux Command Line (Bash)
 Git/GitHub for version control and artifact submission
 
 
-## References
 
-The methodology and threat identification in this lab were informed by the following industry standards and technical resources, cited in APA 7th edition format:
+
+## APA References
+
+DigitalOcean. (2023, April 14). *How to use journalctl to view and manipulate systemd logs*. https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs
 
 OWASP Foundation. (2021). *A03:2021 – Injection*. OWASP Top 10:2021. https://owasp.org/Top10/A03_2021-Injection/
 
 PortSwigger. (n.d.). *SQL injection UNION attacks*. PortSwigger Web Security Academy. https://portswigger.net/web-security/sql-injection/union-attacks
 
 The Knowledge House. (2026). *Night 3: Stream editing & automation* [Lab instructions]. Cybersecurity Phase 1.
-
-Unix/Linux Command Reference. (n.d.). *Grep(1) - Linux manual page*. https://man7.org/linux/man-pages/man1/grep.1.html
